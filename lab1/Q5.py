@@ -6,4 +6,4 @@ c = sorted(list(set(a) | set(b)))
 
 print("The First List is :", a, ".")
 print("The Second List is :", b, ".")
-print("The New list with combined values with excluing duplicates:", c, ".")
+print("The New list with combined values with excluding duplicates:", c, ".")
