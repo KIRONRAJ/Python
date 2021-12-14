@@ -1,0 +1,6 @@
+THIS 
+IS  
+A 
+SENTENCE 
+IN
+FILETWO
